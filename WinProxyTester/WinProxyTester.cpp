@@ -1,5 +1,6 @@
 // WinProxyTester.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// PLEASE NOTE THIS TOOL IS COMPLETELY UNSUPPORTED
+// REVIEW THE SOURCE CAREFULLY AND CONSIDER IF IT IS SAFE FOR YOUR ENVIRONMENT
 
 #include <iostream>
 #include <Windows.h>
